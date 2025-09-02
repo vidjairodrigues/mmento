@@ -37,7 +37,7 @@ const PricingSection = () => {
               {/* Price */}
               <div className="space-y-2">
                 <div className="text-4xl md:text-5xl font-serif font-bold text-foreground">
-                  R$ 299
+                  R$ 349
                   <span className="text-xl text-muted-foreground font-sans">/ano</span>
                 </div>
                 <p className="text-muted-foreground">
